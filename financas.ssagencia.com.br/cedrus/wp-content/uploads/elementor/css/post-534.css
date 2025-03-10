@@ -1,0 +1,162 @@
+.elementor-534 .elementor-element.elementor-element-c0f6a98 {
+    --display: flex;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --border-radius: 25px 25px 25px 25px;
+    --margin-top: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    --margin-right: 0px;
+    --padding-top: 50px;
+    --padding-bottom: 50px;
+    --padding-left: 50px;
+    --padding-right: 50px;
+}
+
+.elementor-534 .elementor-element.elementor-element-c0f6a98:not(.elementor-motion-effects-element-type-background),
+.elementor-534 .elementor-element.elementor-element-c0f6a98>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #062535;
+}
+
+.elementor-534 .elementor-element.elementor-element-c0f6a98,
+.elementor-534 .elementor-element.elementor-element-c0f6a98::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-534 .elementor-element.elementor-element-f3b0aeb {
+    text-align: center;
+}
+
+.elementor-534 .elementor-element.elementor-element-f3b0aeb .elementor-heading-title {
+    font-size: 35px;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .elementor-field-group {
+    padding-right: calc( 10px/2);
+    padding-left: calc( 10px/2);
+    margin-bottom: 10px;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .elementor-form-fields-wrapper {
+    margin-left: calc( -10px/2);
+    margin-right: calc( -10px/2);
+    margin-bottom: -10px;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .elementor-field-group.recaptcha_v3-bottomleft,
+.elementor-534 .elementor-element.elementor-element-022c051 .elementor-field-group.recaptcha_v3-bottomright {
+    margin-bottom: 0;
+}
+
+body.rtl .elementor-534 .elementor-element.elementor-element-022c051 .elementor-labels-inline .elementor-field-group>label {
+    padding-left: 0px;
+}
+
+body:not(.rtl) .elementor-534 .elementor-element.elementor-element-022c051 .elementor-labels-inline .elementor-field-group>label {
+    padding-right: 0px;
+}
+
+body .elementor-534 .elementor-element.elementor-element-022c051 .elementor-labels-above .elementor-field-group>label {
+    padding-bottom: 0px;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .elementor-field-type-html {
+    padding-bottom: 0px;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .elementor-field-group .elementor-field {
+    color: #FFFFFF;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
+    background-color: #FFFFFF75;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .elementor-field-group .elementor-select-wrapper select {
+    background-color: #FFFFFF75;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .e-form__buttons__wrapper__button-next {
+    background-color: #F1A336;
+    color: #FFFFFF;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .elementor-button[type="submit"] {
+    background-color: #F1A336;
+    color: #FFFFFF;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .elementor-button[type="submit"] svg * {
+    fill: #FFFFFF;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .e-form__buttons__wrapper__button-previous {
+    color: #ffffff;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .e-form__buttons__wrapper__button-next:hover {
+    color: #ffffff;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .elementor-button[type="submit"]:hover {
+    color: #ffffff;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .elementor-button[type="submit"]:hover svg * {
+    fill: #ffffff;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 .e-form__buttons__wrapper__button-previous:hover {
+    color: #ffffff;
+}
+
+.elementor-534 .elementor-element.elementor-element-022c051 {
+    --e-form-steps-indicators-spacing: 20px;
+    --e-form-steps-indicator-padding: 30px;
+    --e-form-steps-indicator-inactive-secondary-color: #ffffff;
+    --e-form-steps-indicator-active-secondary-color: #ffffff;
+    --e-form-steps-indicator-completed-secondary-color: #ffffff;
+    --e-form-steps-divider-width: 1px;
+    --e-form-steps-divider-gap: 10px;
+}
+
+#elementor-popup-modal-534 .dialog-widget-content {
+    background-color: #02010100;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+#elementor-popup-modal-534 {
+    background-color: rgba(0, 0, 0, .8);
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+}
+
+#elementor-popup-modal-534 .dialog-message {
+    width: 640px;
+    height: auto;
+}
+
+#elementor-popup-modal-534 .dialog-close-button {
+    display: flex;
+}
+
+@media(max-width:767px) {
+    .elementor-534 .elementor-element.elementor-element-c0f6a98 {
+        --border-radius: 15px 15px 15px 15px;
+        --margin-top: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+        --margin-right: 0px;
+        --padding-top: 25px;
+        --padding-bottom: 25px;
+        --padding-left: 25px;
+        --padding-right: 25px;
+    }
+    .elementor-534 .elementor-element.elementor-element-f3b0aeb .elementor-heading-title {
+        font-size: 25px;
+        line-height: 1.2em;
+    }
+}
